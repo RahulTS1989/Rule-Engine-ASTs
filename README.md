@@ -71,9 +71,6 @@ modular, hierarchical rules.
 pip install simpleruleengine==2.0.3
 ```
 
-## Source Code
-
-[simple-rule-engine GitHub Repository](https://github.com/jeyabalajis/simple-rule-engine)
 
 # Simple Rule Engine - Motivation and Under-the-Hood
 
